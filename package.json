@@ -1,0 +1,12 @@
+{
+  "name": "@usirin/pkg",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git://github.com:usirin/pkg.git",
+  "author": "Umut Sirin <umutsirin1@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
