@@ -1,6 +1,6 @@
 {
   "name": "@usirin/babel-preset",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "personal babel preset for all javascript projects",
   "main": "index.js",
   "keywords": [
@@ -18,5 +18,6 @@
   },
   "devDependencies": {
     "babel-preset-react": "^6.24.1"
-  }
+  },
+  "repository": "https://github.com/usirin/pkg"
 }
